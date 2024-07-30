@@ -16,6 +16,10 @@ cd Escaneo-de-nmap-automatizado
 
 3. Le daremos permisos de ejecución al script.
 ```
-chmod +x ""
+chmod +x "escaneo de nmap automatizado.sh"
 ```
-4. 
+
+4. Finalmente la ejecutaremos.
+```
+sudo bash "escaneo de nmap automatizado.sh"
+```
