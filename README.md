@@ -6,7 +6,7 @@ He creado un script en bash para poder automatizar tipos de escaneos con la herr
 ----------------
 1. Primero clonaremos el repositorio
 ```
-https://github.com/aitorseguramateos/Escaneo-de-nmap-automatizado.git
+git clone https://github.com/aitorseguramateos/Escaneo-de-nmap-automatizado.git
 ```
 
 2. Seguidamente nos situaremos dentro de la carpeta del repositorio.
