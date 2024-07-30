@@ -1,6 +1,6 @@
 # Escaneo de nmap automatizado
 
-He creado un script en bash para poder automatizar tipos de escaneos con la herramienta `Nmap`. No se preocupen si no tienen la herramienta instalada, ya que si no la tiene, se instalará de forma automática.
+He creado un script en bash para poder automatizar 4 tipos de escaneos de puertos, servicios y versiones con la herramienta `Nmap`. No se preocupen si no tienen la herramienta instalada, ya que si no la tiene, se instalará de forma automática.
 
 ¿Cómo usarla?
 ----------------
